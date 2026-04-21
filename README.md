@@ -24,7 +24,7 @@ It takes Arrival Time and Burst Time as input and calculates:
 ## ⚙️ How to Compile & Run
 
 ```bash
-gcc fcfs.c -o fcfs
+gcc FCFS.c -o fcfs
 ./fcfs
 ```
 
@@ -56,5 +56,4 @@ sudo apt install build-essential
 ---
 
 ## 📚 Author
-
-Operating Systems Lab Project
+Muhammad Abdullah - BSE Student
